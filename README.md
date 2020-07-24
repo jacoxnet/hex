@@ -4,7 +4,7 @@ This C++ console program implements the game of Hex. It allows the user to speci
 the size of the board (1-26), and then the user plays white while the computer
 plays black.
 
-This was a first effort at implmeting a playing algorithm. It uses a modification of the 
+This was a first effort at implementing a playing algorithm. It uses a modification of the 
 Dijkstra shortest-path algorithm to find the shortest path from the computer's existing pieces
 and moves along that path. This algorithm plays poorly.
 
